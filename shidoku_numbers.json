@@ -1,0 +1,9 @@
+{
+    "shidoku": [
+      [1, null, null, 2],
+      [null, 2, null, null],
+      [3, null, null, null],
+      [null, null, null, 4]
+    ]
+  }
+  
